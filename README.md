@@ -1,3 +1,14 @@
-把fomo3d的代码都整理出来，通过truffle框架，拆解成继承模式
-使用truffle compile 编译即可
-有问题请咨询:noding(微信)
+### 说明
+本项目通过fomo3d官网合约的入口，把相关所有的合约进行汇总。
+在通过继承的机制就行分拆开。
+
+现已经是一个truffle项目。可以通过命名：
+
+> truffle comiple
+
+直接编译。
+
+
+有问题可咨询:noding(微信)
+
+![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/wechat.jpeg)

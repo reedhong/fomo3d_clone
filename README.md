@@ -6,7 +6,10 @@
 
 > truffle compile
 
-直接编译。后面会进一步对整个代码进行深入的剖析。
+直接编译。源码分析系列：
+
+第一篇：[Fomo3D源码解密：框架篇](https://mp.weixin.qq.com/s/kT94y3kHZKa-JXXWWGqD_A)
+
 
 欢迎交流咨询:
 

@@ -8,6 +8,6 @@
 
 直接编译。后面会进一步对整个代码进行深入的剖析。
 
-欢迎交流咨询:noding(微信)
+欢迎交流咨询:
 
 ![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/wechat.jpeg)

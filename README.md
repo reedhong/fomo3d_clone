@@ -6,7 +6,9 @@
 
 > truffle compile
 
-直接编译。源码分析系列：
+直接编译
+
+源码分析系列：
 
 第一篇：[Fomo3D源码解密：框架篇](https://mp.weixin.qq.com/s/kT94y3kHZKa-JXXWWGqD_A)
 
@@ -14,3 +16,5 @@
 欢迎交流咨询:
 
 ![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/wechat.jpeg)
+
+注：不回答关于环境搭建，简单报错等各种基础问题。真心时间宝贵，望各位了解，付费指导可考虑。

@@ -17,6 +17,6 @@
 
 ![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/wechat.jpeg)
 
-有专门的开发交流群，欢迎大家胶乳
+有专门的开发交流群，欢迎大家加入！
 
 注：不回答关于环境搭建，简单报错等各种基础问题，发挥下自我学习能力吧！真心时间宝贵，望各位多多理解！

@@ -8,9 +8,13 @@
 
 直接编译
 
-源码分析系列：
+相关文章：
 
-第一篇：[Fomo3D源码解密：框架篇](https://mp.weixin.qq.com/s/kT94y3kHZKa-JXXWWGqD_A)
+[Fomo3D源码解密：框架篇](https://mp.weixin.qq.com/s/kT94y3kHZKa-JXXWWGqD_A)
+
+[破解获得Fomo3d中闭源合约F3DExternalSettings的返回值](https://mp.weixin.qq.com/s/GIDwSMU8_usF13n3rFvW-g)
+
+[在以太坊Kovan测试网络中克隆了一套P3D+F3D](https://mp.weixin.qq.com/s/8jfLjD6UgIDfw4fOsJ0rCg)
 
 
 欢迎交流咨询:

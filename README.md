@@ -16,6 +16,8 @@
 
 [在以太坊Kovan测试网络中克隆了一套P3D+F3D](https://mp.weixin.qq.com/s/8jfLjD6UgIDfw4fOsJ0rCg)
 
+克隆版本：
+[https://cryptofish.cc/](https://cryptofish.cc/)
 
 欢迎交流咨询:
 

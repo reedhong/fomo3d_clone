@@ -621,10 +621,10 @@ contract Hourglass {
     {
         // data setup
         address _customerAddress = msg.sender;
-        uint256 _undividedDividends = SafeMath.div(_incomingEthereum, dividendFee_);
-        uint256 _referralBonus = SafeMath.div(_undividedDividends, 3);
-        uint256 _dividends = SafeMath.sub(_undividedDividends, _referralBonus);
-        uint256 _taxedEthereum = SafeMath.sub(_incomingEthereum, _undividedDividends);
+        uint256 _undividedDividends = SafeMath.div(_incomingEthereum, dividendFee_);  // 分红 0.1
+        uint256 _referralBonus = SafeMath.div(_undividedDividends, 3); // 分红的三分之一给推广员
+        uint256 _dividends = SafeMath.sub(_undividedDividends, _referralBonus); // 真正属于分红的钱
+        uint256 _taxedEthereum = SafeMath.sub(_incomingEthereum, _undividedDividends); // 扣完分红后的钱，用来买币
         uint256 _amountOfTokens = ethereumToTokens_(_taxedEthereum);
         uint256 _fee = _dividends * magnitude;
  

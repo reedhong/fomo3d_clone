@@ -51,10 +51,10 @@ library F3Ddatasets {
         uint256 ico;    // ICO phase investment
     }
     struct Round {
-        uint256 plyr;   // pID of player in lead
+        uint256 plyr;   // pID of player in lead， lead领导吗？
         uint256 team;   // tID of team in lead
         uint256 end;    // time ends/ended
-        bool ended;     // has round end function been ran
+        bool ended;     // has round end function been ran  这个开关值得研究下
         uint256 strt;   // time round started
         uint256 keys;   // keys
         uint256 eth;    // total eth in

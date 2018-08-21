@@ -17,4 +17,6 @@
 
 ![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/wechat.jpeg)
 
-注：不回答关于环境搭建，简单报错等各种基础问题，发挥下自我学习能力吧！真心时间宝贵，望各位多多理解！
+![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/xiaomiquan.png)
+
+注：小密圈中沉淀了不少内容，欢迎加入！
